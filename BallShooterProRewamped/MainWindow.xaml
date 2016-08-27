@@ -7,7 +7,8 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525"
         KeyDown="WindowKeyDown"
-        KeyUp="WindowKeyUp">
+        KeyUp="WindowKeyUp"
+        MouseLeftButtonDown="Window_MouseLeftButtonDown">
     <Grid>
         
     </Grid>

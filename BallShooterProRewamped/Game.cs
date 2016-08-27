@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Threading;
 
 namespace BallShooterProRewamped
 {
@@ -11,11 +12,13 @@ namespace BallShooterProRewamped
         public void Setup()
         {
             throw new NotImplementedException();
+            //CountDown(3000);
         }
 
         public void Pause()
         {
             throw new NotImplementedException();
+            //CountDown(3000);
         }
 
         public void Concede()
@@ -43,6 +46,12 @@ namespace BallShooterProRewamped
             throw new NotImplementedException();
             //string winningStatus = "";
             //return winningStatus;
+        }
+
+        private void CountDown(int time)
+        {
+            throw new NotImplementedException();
+            //Thread.Sleep(time);
         }
     }
 }

@@ -35,5 +35,10 @@ namespace BallShooterProRewamped
         {
             throw new NotImplementedException();
         }
+
+        public void Window_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
