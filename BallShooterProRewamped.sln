@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BallShooterProRewamped", "BallShooterProRewamped\BallShooterProRewamped.csproj", "{FC57E0EA-5E1E-4D41-951D-24B49623D292}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BallShooterProRewampedTests", "BallShooterProRewampedTests\BallShooterProRewampedTests.csproj", "{04CA5065-F02E-414B-9200-3ABC4D499287}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{FC57E0EA-5E1E-4D41-951D-24B49623D292}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC57E0EA-5E1E-4D41-951D-24B49623D292}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC57E0EA-5E1E-4D41-951D-24B49623D292}.Release|Any CPU.Build.0 = Release|Any CPU
+		{04CA5065-F02E-414B-9200-3ABC4D499287}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04CA5065-F02E-414B-9200-3ABC4D499287}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04CA5065-F02E-414B-9200-3ABC4D499287}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04CA5065-F02E-414B-9200-3ABC4D499287}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
