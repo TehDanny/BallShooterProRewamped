@@ -8,12 +8,12 @@ namespace BallShooterProRewamped
 {
     class BallController
     {
-        public void MoveDirection(string diretion)
+        public void MoveDirection(string direction)
         {
             throw new NotImplementedException();
         }
 
-        public void StopMovingDirection(string diretion)
+        public void StopMovingDirection(string direction)
         {
             throw new NotImplementedException();
         }
